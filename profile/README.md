@@ -1,4 +1,4 @@
-# Location intelligence to build intelligent tech. 
+# Location intelligence to build intelligent tech
 
 TomTom transforms billions of real-world movements and data points into a location intelligence infrastructure for people, businesses and AI systems operating in the physical world. Built on our fresh and accurate data, we create a machine-readable, AI-ready view of the world that gives applications, models and autonomous systems the context to understand their surroundings and make confident decisions that are grounded in reality. 
 
